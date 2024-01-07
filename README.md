@@ -1,4 +1,4 @@
-##From Barcelona, living in Bogotá, Colombia. 
+## From Barcelona, living in Bogotá, Colombia. 
 
 - 👋 Hi, I’m @**AlbertGEdev**
 - 👀 I’m interested in **code, IA.**
