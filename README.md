@@ -1,3 +1,5 @@
+From Barcelona, living in Bogotá, Colombia. 
+
 - 👋 Hi, I’m @AlbertGEdev
 - 👀 I’m interested in code, IA.
 - 🌱 I’m currently learning React, JS, Python, db
