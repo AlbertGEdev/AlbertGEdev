@@ -1,10 +1,14 @@
-From Barcelona, living in Bogotá, Colombia. 
+##From Barcelona, living in Bogotá, Colombia. 
 
-- 👋 Hi, I’m @AlbertGEdev
-- 👀 I’m interested in code, IA.
-- 🌱 I’m currently learning React, JS, Python, db
-- 💞️ I’m looking to collaborate on new projects.
-- 📫 How to reach me algoes2002@gmail.com
+- 👋 Hi, I’m @**AlbertGEdev**
+- 👀 I’m interested in **code, IA.**
+- 🌱 I’m currently learning **React, JS, Python, db**
+- 💞️ I’m looking to collaborate on **new projects.**
+- 📫 How to reach me **algoes2002@gmail.com** or **+34661373475** & **+573213464937**
+
+I moved to Colombia in February 2023 after quitting my job at a multinational company. Following my dream of being able to travel across Latin America while working remotely in software development, I started learning coding. I am currently seeking new projects, both freelance opportunities and positions with companies around the world.
+
+
 
 <!---
 AlbertGEdev/AlbertGEdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
