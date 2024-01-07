@@ -14,7 +14,7 @@ I moved to Colombia in February 2023 after quitting my job at a multinational co
 
 ## Connect with me in: 
 
-## Language & Tools: 
+## Language & Technologies & Tools: 
 
 
 
