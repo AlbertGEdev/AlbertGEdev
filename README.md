@@ -1,6 +1,10 @@
-## From Barcelona, living in Bogotá, Colombia. 
+<center>
+  ## 👋 Hi, I’m @**AlbertGEdev**
+</center>
 
-- 👋 Hi, I’m @**AlbertGEdev**
+### <center>From Barcelona, living in Bogotá, Colombia.</center>
+I moved to Colombia in February 2023 after quitting my job at a multinational company. Following my dream of being able to travel across Latin America while working remotely in software development, I started learning coding. I am currently seeking new projects, both freelance opportunities and positions with companies around the world.
+
 - 👀 I’m interested in **code, IA.**
 - 🌱 I’m currently learning **React, JS, Python, db**
 - 💞️ I’m looking to collaborate on **new projects.**
